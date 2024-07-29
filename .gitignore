@@ -1,0 +1,9 @@
+# Ignore specific files
+Book2.csv 
+Book3.csv
+
+# Ignore directory
+__pycache__
+.venv
+.env
+
