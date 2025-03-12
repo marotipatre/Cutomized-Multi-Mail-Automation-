@@ -360,7 +360,7 @@ text = '''<!DOCTYPE html>
 
 my_name = "AlgoBharat HackSeries - Maroti Patre"  # Your name to display in the "From" field
 
-with open ("test.csv") as csv_file: 
+with open ("hackseries_byop.csv") as csv_file: 
     book3 = csv.reader(csv_file)
     next(book3) # Skip header row
     for name,email in book3:

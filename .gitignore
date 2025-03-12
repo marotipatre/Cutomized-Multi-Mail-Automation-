@@ -1,9 +1,10 @@
 # Ignore specific files
-Book2.csv 
-Book3.csv
+hackseries_byop.csv
+
 
 # Ignore directory
 __pycache__
 .venv
 .env
+
 
